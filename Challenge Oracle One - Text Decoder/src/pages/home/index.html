@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSS reset -->
+    <link rel="stylesheet" href="../../common/common.css">
+    <!-- CSS style -->
+    <link rel="stylesheet" href="style.css">
+    <title>Desafio de Criptografia - Oracle One</title>
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <a href="/"><img src="../../assets/images/logo.png" alt="logoalura"></a>
+      </div>
+    </header>
+    <div class="container">
+      <section class="input-text">
+        <!-- Entry text -->
+        <textarea id="textInput" class="input" placeholder="Digite seu texto" require></textarea>
+          <span class="info"><img src="../../assets/images/infovector.png" alt="info"> Apenas letras minúsculas e sem acento.</span>
+          <!-- Buttons -->
+            <div class="buttons">
+              <button id="btnEncrypt" class="btn-primary" type="button">Criptografar</button>
+              <button id="btnDescrypt" class="btn-secundary" type="button" >Descriptografar</button>
+            </div>
+      </section>
+      <section class="output-text"></output>
+          <!-- Empty -->
+          <div id="empty-output" class="empty-output hidden">
+            <img src="../../assets/images/boyimg.png" alt="boy">
+            <h4 class="title-output">Nenhuma mensagem encontrada</h4>
+            <p>Digite um texto que você deseja criptografar ou descriptografar.</p>
+          </div>
+          <!-- Output -->
+          <div id="result-output" class="result-output">
+            <textarea id="textResult" class="output" readonly></textarea>
+            <button class="copy-result" type="button">Copiar</button>
+          </div>
+      </section>
+    </div>
+      <!-- JS script -->
+  <script type="text/javascript" src="script.js" defer="defer"></script>
+  </body>
+
+</html> 
