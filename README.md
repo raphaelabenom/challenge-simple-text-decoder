@@ -6,3 +6,5 @@ This code is an implementation of a simple encryption, where it replaces the let
 There is also an input event in the text field, where it checks if the field is empty and shows or hides elements on the page based on that.
 
 The code also has a function to copy the encrypted or decrypted text to the clipboard.
+
+<a href="https://raphaelabenom.github.io/oracle-one-text-decoder/src/index.html">Click Here! Live page.</a>
