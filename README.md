@@ -8,3 +8,5 @@ There is also an input event in the text field, where it checks if the field is 
 The code also has a function to copy the encrypted or decrypted text to the clipboard.
 
 <a href="https://raphaelabenom.github.io/oracle-one-text-decoder/src/index.html">Click Here! Live page.</a>
+
+#challengeonedecodificador4
