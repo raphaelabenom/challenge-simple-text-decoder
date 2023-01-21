@@ -11,4 +11,4 @@ The code also has a function to copy the encrypted or decrypted text to the clip
 
 #challengeonedecodificador4
 
-<img align="center" height="100" width="100" src="https://i.ibb.co/0jbzft6/cms-files-10224-1671211139-Prancheta-3.png">
+<img align="center" height="200" width="200" src="https://i.ibb.co/0jbzft6/cms-files-10224-1671211139-Prancheta-3.png">
